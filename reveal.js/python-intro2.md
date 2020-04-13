@@ -478,6 +478,7 @@ print(device)
 ```
 
 ---
+
 ## Dictionaries: updating data
 
 Dictionaries can be combined easily with the .update() function
