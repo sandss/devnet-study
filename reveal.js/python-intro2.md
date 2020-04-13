@@ -488,6 +488,13 @@ dict1.update(dict2)
 
 # dict1 is now {'color': 'red', 'shape': 'circle', 'number': 42}
 ```
+---
+
+## Assignment 1
+
+Add `learn_python3.ipynb` to Jupyter server. 
+
+1. Download
 
 ---
 
