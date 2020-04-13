@@ -466,7 +466,6 @@ device = {
 
 ## Dictionaries: Accessing and writing data
 
-
 ```python
 
 device = { 'hostname': 'sw-eos-1', 'vendor': 'Cisco'}
@@ -496,9 +495,14 @@ dict1.update(dict2)
 
 ## Assignment 1
 
-Add `learn_python3.ipynb` to Jupyter server. 
+Add [learn_python3.ipynb](https://raw.githubusercontent.com/sandss/devnet-study/master/learning-python3.ipynb) to Jupyter server. 
 
-1. Inside the notebooks directory you used for Jupyter `curl -k -O https://raw.githubusercontent.com/sandss/devnet-study/master/learning-python3.ipynb`
+1. Inside the notebooks directory you used for Jupyter 
+
+    ```sh
+    curl -k -O https://raw.githubusercontent.com/sandss/devnet-study/master/learning-python3.ipynb
+    ```
+
 1. In a browser navigate to your Jupyter server.
 1. Open `learn_python3.ipynb`
 
