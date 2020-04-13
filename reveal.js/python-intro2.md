@@ -443,6 +443,7 @@ print(devices)
 See the [Documentation](https://docs.python.org/3/tutorial/datastructures.html) for more on list methods.
 
 ---
+
 ## Dictionaries
 
 `dict`
@@ -462,6 +463,7 @@ device = {
 ```
 
 ---
+
 ## Dictionaries: Accessing and writing data
 
 
@@ -488,6 +490,7 @@ dict1.update(dict2)
 
 # dict1 is now {'color': 'red', 'shape': 'circle', 'number': 42}
 ```
+
 ---
 
 ## Assignment 1
