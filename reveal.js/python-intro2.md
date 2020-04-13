@@ -441,8 +441,8 @@ print(devices)
 </small>
 
 See the [Documentation](https://docs.python.org/3/tutorial/datastructures.html) for more on list methods.
----
 
+---
 ## Dictionaries
 
 `dict`
