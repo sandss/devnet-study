@@ -494,7 +494,9 @@ dict1.update(dict2)
 
 Add `learn_python3.ipynb` to Jupyter server. 
 
-1. Download
+1. Inside the notebooks directory you used for Jupyter `curl -k -O https://raw.githubusercontent.com/sandss/devnet-study/master/learning-python3.ipynb`
+1. In a browser navigate to your Jupyter server.
+1. Open `learn_python3.ipynb`
 
 ---
 
