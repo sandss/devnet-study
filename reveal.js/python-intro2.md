@@ -3,7 +3,7 @@
 
 #### DevNet Certification Prep
 
-[@sandss]https://github.com/sandss/
+[@sandss](https://github.com/sandss/)
 
 Skylar Sands
 
