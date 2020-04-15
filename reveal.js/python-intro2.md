@@ -3,8 +3,12 @@
 
 #### DevNet Certification Prep
 
-[@ttafsir](https://github.com/ttafsir)
+[@sandss]https://github.com/sandss/
 
+Skylar Sands
+
+Content by: 
+[@ttafsir](https://github.com/ttafsir)
 
 Tafsir Thiam
 
