@@ -7,12 +7,15 @@
 
 Skylar Sands
 
+<small>
+
 Content by: 
 
 [@ttafsir](https://github.com/ttafsir)
 
 Tafsir Thiam
 
+</small>
 ---
 
 ## Outline
