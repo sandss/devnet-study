@@ -9,8 +9,6 @@ Skylar Sands
 
 <small>
 
-Content by: 
-
 [@ttafsir](https://github.com/ttafsir)
 
 Tafsir Thiam
@@ -74,10 +72,6 @@ for device in DEVICES:
     print(lldp_neighbors)
     print(ip_routes)
 ```
-
----
-
-# DEMO TIME
 
 ---
 
@@ -505,26 +499,11 @@ dict1.update(dict2)
 
 ---
 
-## Assignment 1
-
-Add [learn_python3.ipynb](https://raw.githubusercontent.com/sandss/devnet-study/master/learning-python3.ipynb) to Jupyter server. 
-
-1. Inside the notebooks directory you used for Jupyter 
-
-    ```sh
-    curl -k -O https://raw.githubusercontent.com/sandss/devnet-study/master/learning-python3.ipynb
-    ```
-
-1. In a browser navigate to your Jupyter server.
-1. Open `learn_python3.ipynb`
-
----
-
 ## Thank you!
 
 View this presentation online:<br>
 
- [github.wwt.com/pages/thiamt/python-intro.github.io](https://github.wwt.com/pages/thiamt/python-intro.github.io)
+ [github.wwt.com/pages/sandss/devnet-study/reveal.js/](https://github.wwt.com/pages/sandss/devnet-study/reveal.js/)
 
 </small>
 
